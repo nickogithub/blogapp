@@ -1,3 +1,4 @@
 # blogapp
 
 Hello everybody
+/*comments*/
